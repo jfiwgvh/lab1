@@ -19,11 +19,11 @@
 
 Следуйте этим шагам, чтобы установить проект:
 
-1. **Клонируйте репозиторий**
-git clone https://github.com/jfiwgvh/Todo.git
+1. **Перейдите в репозиторий проекта**
+(https://github.com/jfiwgvh/Todo)
 
-2. **Перейдите в папку проекта**
-https://github.com/jfiwgvh/Todo/tree/lab1
+2. **Перейдите в ветку проекта**
+(https://github.com/jfiwgvh/Todo/tree/lab1)
 
 3. **Откройте проект в Visual Studio**
 Откройте файл .sln в Visual Studio
